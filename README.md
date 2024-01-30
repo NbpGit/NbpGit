@@ -3,11 +3,11 @@
 - Old Github: EndBP
 - Discord: nbp.
   
-# This sentence uses the first letter of each emoji
+ This sentence uses the first letter of each emoji
 - 🖐🐢📫😂 🧊🧼 🐮🦦🦦😂
   
 - 🌱 I’m currently learning html
 
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: Biz doesn't like pineapple leaves.
+- ⚡ This account is used to be more organized with things.
